@@ -4,7 +4,7 @@ const ShopCategory = () => {
   
   return (
     <div>
-      
+      Category
     </div>
   )
 }
