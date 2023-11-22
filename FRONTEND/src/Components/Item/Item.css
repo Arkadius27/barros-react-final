@@ -1,6 +1,9 @@
 .item {
     width: 350px;
 }
+.item img {
+    border-radius: 5px;
+}
 .item p {
     margin: 6px 0px;
 }
