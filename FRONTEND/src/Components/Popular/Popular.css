@@ -4,9 +4,10 @@
     align-items: center;
     gap: 10px;
     height: 90vh;
+    margin-top: 50px;
 }
 .popular h1 {
-    color: #2b75d6;
+    color: #000000;
     font-size: 50px;
     font-weight: 600;
 }
@@ -14,7 +15,7 @@
     width: 25%;
     height: 3px;
     border: none;
-    background: #2b75d6;
+    background: #000000;
 }
 
 .popular-item {
