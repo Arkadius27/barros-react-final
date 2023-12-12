@@ -4,7 +4,6 @@ import { useParams } from 'react-router-dom';
 
 import Breadcrumb from '../Components/Breadcrumbs/Breadcrumb';
 import ProductDisplay from '../Components/ProductDisplay/ProductDisplay';
-// import DescriptionBox from '../Components/DescriptionBox/DescriptionBox';
 
 const Product = () => {
 
@@ -16,7 +15,6 @@ const Product = () => {
     <div>
       <Breadcrumb product={product} />
       <ProductDisplay product={product} />
-      {/* <DescriptionBox /> */}
     </div>
   )
 }
